@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: backend2
-    image: ayushsingla7/k8s-learn:174617ac07af5c19a9d179c79d5bbca63a59a299
+    image: ayushsingla7/k8s-learn:a79ad430343fa43013fb1c744b77f1296b27369e
     ports: 
     - containerPort: 3000
