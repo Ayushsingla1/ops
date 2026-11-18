@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: random_server
+  name: backend
 spec:
   containers:
   - name: nginx
