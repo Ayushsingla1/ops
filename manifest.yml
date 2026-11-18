@@ -4,7 +4,7 @@ metadata:
   name: backend
 spec:
   containers:
-  - name: nginx
-    image: nginx
+  - name: backend2
+    image: ayushsingla7/k8s-learn:latest
     ports: 
-    - containerPort: 80
+    - containerPort: 3000
